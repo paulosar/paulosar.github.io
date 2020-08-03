@@ -1,0 +1,27 @@
+{
+  "name": "paulosar-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio-github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulosar/paulosar.github.io.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Paulo Silas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulosar/paulosar.github.io/issues"
+  },
+  "homepage": "https://github.com/paulosar/paulosar.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.0",
+    "jquery-validation": "^1.18.0"
+  }
+}
